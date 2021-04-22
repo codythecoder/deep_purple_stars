@@ -1,0 +1,52 @@
+{
+  "manifest_version": 2,
+  "version": "3.0",
+  "name": "deep purple stars",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/0.png"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "left top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgba(95, 114, 124, 0)",
+      "toolbar_text": "rgb(255, 255, 255)",
+      "frame": "rgb(19, 0, 33)",
+      "tab_background_text": "rgb(168, 168, 168)",
+      "toolbar_field": "rgba(240, 212, 255, 0.16)",
+      "toolbar_field_text": "rgb(255, 255, 255)",
+      "tab_line": "rgb(184, 88, 221)",
+      "popup": "rgb(19, 0, 33)",
+      "popup_text": "rgb(255, 255, 255)",
+      "button_background_active": "rgba(240, 212, 255, 0.16)",
+      "button_background_hover": "rgba(240, 212, 255, 0.08)",
+      "ntp_background": "rgb(19, 0, 33)",
+      "ntp_text": "rgb(255, 255, 255)",
+      "sidebar_border": "rgba(240, 212, 255, 0.16)",
+      "sidebar_highlight_text": "rgb(255, 255, 255)",
+      "sidebar_highlight": "rgba(240, 212, 255, 0.16)",
+      "sidebar_text": "rgb(255, 255, 255)",
+      "sidebar": "rgb(19, 0, 33)",
+      "tab_background_separator": "rgba(240, 212, 255, 0.54)",
+      "tab_selected": "rgba(240, 212, 255, 0.16)",
+      "toolbar_bottom_separator": "rgb(19, 0, 33)",
+      "toolbar_field_border_focus": "rgba(240, 212, 255, 0.16)",
+      "toolbar_field_border": "rgba(240, 212, 255, 0.21)",
+      "toolbar_field_focus": "rgba(19, 0, 33, 0.97)",
+      "toolbar_field_highlight_text": "rgba(255, 255, 255, 0.97)",
+      "toolbar_field_highlight": "rgba(255, 255, 255, 0.21)",
+      "toolbar_field_separator": "rgba(240, 212, 255, 0.16)",
+      "toolbar_top_separator": "rgba(255, 255, 255, 0)",
+      "toolbar_vertical_separator": "rgba(240, 212, 255, 0.16)",
+      "tab_loading": "rgb(184, 88, 221)"
+    }
+  }
+}
